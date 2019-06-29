@@ -6,4 +6,4 @@ var height = "74"
 module.exports = { name, height
 }
 
-if 
+if (name === "susan"){console.log("the name is correct")
